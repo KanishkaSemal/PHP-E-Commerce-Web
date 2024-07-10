@@ -68,16 +68,136 @@
 </nav>
 
 <!--third child -->
+<div class="bg-light">
+  <h3 class="text-center">Kani Store</h3>
+  <p class="text-center">Communications is at the heart of e-commerce and community</p>
+</div>
 
-   
 
-   <!--last child -->
-   <!-- <div class="bg-info p-3 text-center">
+<!--fourth child -->
+<div class="row">
+  <div class="col-md-10">
+    <!-- products -->
+     <div class="row">
+      <div class="col-md-4 mb-2">
+      <div class="card">
+  <img src="./images/milk.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">View more</a>
+  </div>
+</div>
+      </div>
+      <div class="col-md-4 mb-2">
+      <div class="card">
+  <img src="./images/apple.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">View more</a>
+  </div>
+</div>
+      </div>
+      <div class="col-md-4 mb-2">
+      <div class="card">
+  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">View more</a>
+  </div>
+</div>
+      </div>
+      <div class="col-md-4 mb-2">
+      <div class="card">
+  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">View more</a>
+  </div>
+</div>
+      </div>
+      <div class="col-md-4 mb-2">
+      <div class="card">
+  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">View more</a>
+  </div>
+</div>
+
+     </div>
+     <div class="col-md-4 mb-2">
+      <div class="card">
+  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-info">Add to cart</a>
+    <a href="#" class="btn btn-secondary">View more</a>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+<div class="col-md-2 bg-secondary p-0">
+  <ul class="navbar-nav me-auto text-center">
+    <li class="nav-item bg-info">
+      <a href="#" class="nav-link text-light"><h4>Delivery Brands<h4></a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Brand1</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Brand2</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Brand3</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Brand4</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Brand5</a>
+    </li>
+  </ul>
+
+
+
+  <ul class="navbar-nav me-auto text-center">
+    <li class="nav-item bg-info">
+      <a href="#" class="nav-link text-light"><h4>Categories<h4></a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Categories1</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Categories2</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Categories3</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Categories4</a>
+    </li>
+    <li class="nav-item">
+      <a href="#" class="nav-link text-light">Categories5</a>
+    </li>
+  </ul>
+</div>
+
+
+     <!--last child -->
+     <div class="bg-info p-3 text-center">
     <p>All rights reserved @- Designed by Kani-2024</p>
-   </div> -->
-
    </div>
- <!-- bootstrap js link -->
- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>  
 </body>
 </html>
