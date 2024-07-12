@@ -83,8 +83,9 @@
       <div class="card">
   <img src="./images/milk.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Chocolate</h5>
+    <p class="card-text">Chocolate is one of the most popular food types and flavors in the world.</p>
+    <p class="card-text">Price: 1000/-</p>
     <a href="#" class="btn btn-info">Add to cart</a>
     <a href="#" class="btn btn-secondary">View more</a>
   </div>
@@ -94,8 +95,9 @@
       <div class="card">
   <img src="./images/apple.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Fresh Apple</h5>
+    <p class="card-text">Apples are always tasty.Eat once you will ask for more.</p>
+    <p class="card-text">Price: 200/-</p>
     <a href="#" class="btn btn-info">Add to cart</a>
     <a href="#" class="btn btn-secondary">View more</a>
   </div>
@@ -105,8 +107,9 @@
       <div class="card">
   <img src="./images/th.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Bell Pepper</h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Price: 150/-</p>
     <a href="#" class="btn btn-info">Add to cart</a>
     <a href="#" class="btn btn-secondary">View more</a>
   </div>
@@ -114,10 +117,11 @@
       </div>
       <div class="col-md-4 mb-2">
       <div class="card">
-  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <img src="./images/book.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Books</h5>
+    <p class="card-text">Books play a quintessential roal in every students life by introducing them to a world.</p>
+    <p class="card-text">Price: 300/-</p>
     <a href="#" class="btn btn-info">Add to cart</a>
     <a href="#" class="btn btn-secondary">View more</a>
   </div>
@@ -125,10 +129,11 @@
       </div>
       <div class="col-md-4 mb-2">
       <div class="card">
-  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <img src="./images/juices.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Fresh Juices</h5>
+    <p class="card-text">Juices are good health.Juices are good for health.</p>
+    <p class="card-text">Price: 100/-</p>
     <a href="#" class="btn btn-info">Add to cart</a>
     <a href="#" class="btn btn-secondary">View more</a>
   </div>
@@ -137,10 +142,11 @@
      </div>
      <div class="col-md-4 mb-2">
       <div class="card">
-  <img src="./images/th.jpg" class="card-img-top" alt="...">
+  <img src="./images/mango.jpg" class="card-img-top" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <h5 class="card-title">Fresh Mango</h5>
+    <p class="card-text">Mangoes are always tasty.Eat once you will ask for more.</p>
+    <p class="card-text">Price: 500/-</p>
     <a href="#" class="btn btn-info">Add to cart</a>
     <a href="#" class="btn btn-secondary">View more</a>
   </div>
