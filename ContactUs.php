@@ -32,7 +32,7 @@
            <a class="nav-link active" aria-current="page" href="index.php">Home</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="Register.php">Register</a>
+           <a class="nav-link" href="RegisterUs.php">Register</a>
          </li>
          <li class="nav-item">
            <a class="nav-link" href="ContactUs.php">Contact</a>
@@ -62,7 +62,7 @@
            <a class="nav-link" href="admin_area/index.php?insert_brand">Admin dashboard</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link" href="Login.php">Login</a>
+           <a class="nav-link" href="LoginUs.php">Login</a>
          </li>
  
    </ul>
