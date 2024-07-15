@@ -58,7 +58,7 @@
           <a class="nav-link" href="#">Welcome Guest</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="admin_area/index.php">Admin dashboard</a>
+          <a class="nav-link" href="admin_area/index.php?insert_brand">Admin dashboard</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="Login.php">Login</a>
